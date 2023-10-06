@@ -1,2 +1,2 @@
 # SoftUni---Programming-Basics
-Solutions Of All Programming Basics Exercises (Complete)
+Solutions Of All Programming Basics Exercises 
